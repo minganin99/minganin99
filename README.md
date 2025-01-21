@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4479A1&height=300&section=header&text=Hi%20Welcome,%20I'm%20MINKWAN%20JUNG%20👋&fontSize=40" />
-  
-## Hi Welcome, i'm MINKWAN JUNG 👋
+
 
 ### Data Scientist / AI Researcher
 <br/>
@@ -36,4 +35,11 @@ ADSP
 [Additional Training]
 
 <image src="https://github.com/user-attachments/assets/ea61337d-dcc1-493f-a62b-832bc92a2370" alt="im뱅크" width="20">IM뱅크 데이터 분석 전문가 양성과정 3기 (2024.9 ~ )
+<br/>
+<br/>
+
+
+### 📌Contact
+[<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>](mailto:mkmy789432@gmail.com)
+
 </div>
