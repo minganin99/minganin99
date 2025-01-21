@@ -14,15 +14,26 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 <br/>
 <br/>
 
+### 📁Projects
+2024.12~2025.01 KDT - BitCoin Prediction ML/DL 💰
+
+2024.10~2024.11 KDT - Earthquake Data Analysis in korea 💥
+
+2024.03~2024.12 MIDAS - Fashion Recommend SNS 🧥
+
+2023.09~2023.12 SW Engineering - Video Platform 🎞️
+
+2023.05~2023.06 IoT - Finder 🚗
+<br/>
+<br/>
 
 ### 📌Other
 
 <image src="https://github.com/user-attachments/assets/183434c6-e215-46ad-99ed-b5f6d1831c1f" alt="자격증" width="20"> [Certifications]
-
 
 SQLD
 
