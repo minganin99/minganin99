@@ -45,7 +45,7 @@ ADSP
 
 🏃[Additional Training]
 
-<image src="https://github.com/user-attachments/assets/ea61337d-dcc1-493f-a62b-832bc92a2370" alt="im뱅크" width="20">IM뱅크 데이터 분석 전문가 양성과정 3기 (2024.9 ~ )
+<image src="https://github.com/user-attachments/assets/ea61337d-dcc1-493f-a62b-832bc92a2370" alt="im뱅크" width="20">IM뱅크 데이터 분석 전문가 양성과정 3기 (2024.09 ~ )
 <br/>
 <br/>
 
