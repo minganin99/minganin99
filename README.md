@@ -19,7 +19,7 @@
 <br/>
 
 ### 📁Projects
-2024.12~2025.01 KDT - BitCoin Prediction ML/DL 💰
+2024.12~2025.01 KDT - Bitcoin Prediction ML/DL 💰
 
 2024.10~2024.11 KDT - Earthquake Data Analysis in korea 💥
 
