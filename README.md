@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4479A1&height=300&section=header&text=Hi%20Welcome,%20I'm%20MINKWAN%20JUNG%20👋&fontSize=40" />
 
 
-### WannaBe
+### 🐬WannaBe
 Data Scientist / AI Researcher
 <br/>
 <br/>
