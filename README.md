@@ -51,7 +51,7 @@ ADSP
 <br/>
 
 
-### 📌Contact
+### 📌Contact Me
 [<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>](mailto:mkmy789432@gmail.com)
 
 </div>
