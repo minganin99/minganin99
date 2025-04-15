@@ -46,9 +46,11 @@ ADSP
 
 빅분기
 
+
 🏆[Awards]
 
 벤처스타트업아카데미사업 2024 산업체 문제해결 아이디어 경진대회 대상 수상
+
 
 🏃[Additional Training]
 
