@@ -3,7 +3,7 @@
 
 
 ### 🐬WannaBe
-Data Scientist / AI Researcher
+Data Scientist / Financial Analyst
 <br/>
 <br/>
 
@@ -44,8 +44,6 @@ SQLD
 
 ADSP
 
-빅분기
-
 
 🏆[Awards]
 
@@ -54,7 +52,7 @@ ADSP
 
 🏃[Additional Training]
 
-<image src="https://github.com/user-attachments/assets/ea61337d-dcc1-493f-a62b-832bc92a2370" alt="im뱅크" width="20">IM뱅크 데이터 분석 전문가 양성과정 3기 수료 (2024.09 ~ 2025.03)
+<image src="https://github.com/user-attachments/assets/ea61337d-dcc1-493f-a62b-832bc92a2370" alt="im뱅크" width="20">IM뱅크 데이터 분석 전문가 양성과정 3기 우수 수료 (2024.09 ~ 2025.03)
 
 <image src="https://github.com/user-attachments/assets/a5d8220c-a151-4cfa-a6cc-2be217d23909" alt="im뱅크" width="20">주식회사 말달리자 Computer Vision & Data Analysis (2025.04 ~ )
 
