@@ -3,7 +3,7 @@
 
 
 ### 🐬WannaBe
-Data Scientist / Financial Analyst
+Data Scientist  /  Financial Analyst
 <br/>
 <br/>
 
